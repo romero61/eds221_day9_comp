@@ -5,7 +5,7 @@
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1660855144499.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1660855953,
+    "lastKnownWriteTime": 1660857922,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1660857556255,
+    "last_content_update": 1660857922529,
     "read_only": false,
     "read_only_alternatives": []
 }
